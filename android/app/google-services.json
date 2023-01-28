@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464255406369",
+    "firebase_url": "https://projectx-ecfa8-default-rtdb.firebaseio.com",
+    "project_id": "projectx-ecfa8",
+    "storage_bucket": "projectx-ecfa8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464255406369:android:77368a0b10a1767ef16e60",
+        "android_client_info": {
+          "package_name": "com.pricetrackerpro.projectx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464255406369-c9lriopn9n41ja8ic4fvd0u317e7ii7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiymy8J1NrC9_NvkXtVBF7M2V1-FQrHoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464255406369-c9lriopn9n41ja8ic4fvd0u317e7ii7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
